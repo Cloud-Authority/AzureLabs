@@ -34,6 +34,14 @@
             "defaultValue": "nsg1",
             "type": "String"
         },
+        "vmSize": {
+            "defaultValue": "Standard_B2ms",
+            "type": "string"
+        },
+        "adminUsername": {
+            "defaultValue": "siddhesh",
+            "type": "string"
+        },
         "adminPassword": {
             "defaultValue": null,
             "type": "securestring"
