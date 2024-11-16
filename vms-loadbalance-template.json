@@ -169,7 +169,7 @@
                         "createOption": "FromImage",
                         "caching": "ReadWrite",
                         "deleteOption": "Detach",
-                        "diskSizeGB": 32,
+                        "diskSizeGB": 127,
                         "managedDisk": {
                             "storageAccountType": "Standard_LRS"
                         }
@@ -229,7 +229,7 @@
                         "createOption": "FromImage",
                         "caching": "ReadWrite",
                         "deleteOption": "Detach",
-                        "diskSizeGB": 32,
+                        "diskSizeGB": 127,
                         "managedDisk": {
                             "storageAccountType": "Standard_LRS"
                         }
@@ -289,7 +289,7 @@
                         "createOption": "FromImage",
                         "caching": "ReadWrite",
                         "deleteOption": "Detach",
-                        "diskSizeGB": 32,
+                        "diskSizeGB": 127,
                         "managedDisk": {
                             "storageAccountType": "Standard_LRS"
                         }
